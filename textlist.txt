@@ -1,0 +1,5 @@
+C:\IONIC\sc01\www\templates\page2.html
+C:\IONIC\sc01\www\templates\dataPage.html
+C:\IONIC\sc01\www\templates\aboutSaintConnection.html
+C:\IONIC\sc01\www\index.html
+
